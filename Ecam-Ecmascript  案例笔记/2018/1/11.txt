@@ -1,0 +1,5 @@
+
+    if 语句
+    if 语句是 ECMAScript 中最常用的语句之一，事实上在许多计算机语言中都是如此。
+    if 语句的语法：
+    if (condition) statement1 else statement2
